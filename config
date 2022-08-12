@@ -1,0 +1,28 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/JeisonLeonel/Actividad-Bootstrap-.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[branch "grilla-boostrap"]
+	remote = origin
+	merge = refs/heads/grilla-boostrap
+[branch "reto-grilla"]
+	remote = origin
+	merge = refs/heads/reto-grilla
+[branch "footer"]
+	remote = origin
+	merge = refs/heads/footer
+[branch "agregar-texto"]
+	remote = origin
+	merge = refs/heads/agregar-texto
+[branch "formulario-modal"]
+	remote = origin
+	merge = refs/heads/formulario-modal

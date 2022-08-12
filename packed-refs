@@ -1,0 +1,17 @@
+# pack-refs with: peeled fully-peeled sorted 
+a617f920f7f5179a59bc4acbe35cf6fe015de39f refs/remotes/origin/agregar-botones
+fea10309a3a611e5ba2047d7824d606f6cf681d9 refs/remotes/origin/agregar-texto
+aeed7ef64bd0b6510d69cabcc843e7ab5201a057 refs/remotes/origin/badges
+50883a2d66f8916d4308f9ba161ec27fa7c2909d refs/remotes/origin/cards
+ae78dfbf72963ef908a00115889638a4e548b35e refs/remotes/origin/carousel
+e2e736479bc2bdee0f131e2c7ccfa821bf3b1403 refs/remotes/origin/contenedor-ancho-completo
+676a1c7527913344f2ac92e8cc2c23cff4405e3a refs/remotes/origin/footer
+a556fdaedbd7d6ff643ddf8b865b463aa7666a52 refs/remotes/origin/formulario
+add3fdfa4f1c8d454c674a461e02764cc61fe15f refs/remotes/origin/formulario-modal
+4ef137f74f1044e03d3dfcab739b3ed1956c69ef refs/remotes/origin/grilla-boostrap
+23f057ed14e55c29bd536f93e88857821bf03f37 refs/remotes/origin/header
+add3fdfa4f1c8d454c674a461e02764cc61fe15f refs/remotes/origin/main
+8e91023ad3213adb24a1774aa24bb1437ec1dc98 refs/remotes/origin/modal
+c5ecd2cc406cc45c1ee9ff29bfb1019b6b29524e refs/remotes/origin/reto-grilla
+d94af3d3147631181d040b6c952a1a0b085a7551 refs/remotes/origin/scrollspy
+9f2614abdfdcdc4e84f13a58295ee600c88d1d09 refs/remotes/origin/tooltip
